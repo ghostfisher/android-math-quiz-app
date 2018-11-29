@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math quiz app</string>
+    <string name="give_an_answer_msg_text_q">please writ your question</string>
+    
+    <!-- questions with text answer (questions) -->
+    <string-array name="q_with_text_answer">
+        
+        <item>what is the result of 77+17</item>
+        <item>what is the square of 4</item>
+    </string-array>
+    <!-- questions with text answer (answers) -->
+    <string-array name="q_with_text_answer_answers" >
+        <item >94</item>
+        <item>16</item>
+    </string-array>
+    <!-- questions with multiple answers (questions)-->
+	<string-array name="q_with_multiple_op_questions">
+	    <item>what do we mesure first</item>
+	    <item>what is the result of :\n 1+1-(1+2)-1</item>
+		<item>expand this Ax(B+C)</item>
+		<item>what is (X+1)(X-2)=0 means ? </item>
+	</string-array>
+	    <!-- questions with multiple answers (options)-->
+    <string-array name="q_with_multiple_op_options">
+        <item >plus and minus,multiplication,division</item>
+        <item >2,3,-2</item>
+        <item >AxB+AxC,AxC+AxB,AxB+C</item>
+        <item >X=-1,X=2,X=-1 or X=2</item>
+        
+    </string-array>
+    <string-array name="q_with_multiple_op_rightAnswers">
+        <item>1,2</item>
+        <item>2</item>
+        <item>0,1</item>
+        <item>2</item>
+    </string-array>
+	
+</resources>

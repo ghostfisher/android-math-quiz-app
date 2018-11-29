@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="7" >
+
+    <TextView
+        style="@style/question_style"
+        android:id="@+id/question_tv"
+        android:text="this is the question"
+        android:layout_weight="3"
+         />
+
+	<CheckBox
+	    android:id="@+id/option1"
+	    style="@style/options_style"
+	    android:text="ff" />
+    
+	<CheckBox 
+	    android:id="@+id/option2"
+	    style="@style/options_style"
+	    />
+	
+	<CheckBox style="@style/options_style"
+	    android:id="@+id/option3"
+	    />
+
+</LinearLayout>

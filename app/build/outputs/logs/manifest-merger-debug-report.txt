@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.quizapp.MainActivity
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.quizapp.QustionsActivity
+ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:label
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:24:13-64
+uses-sdk
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNCAP23F203\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67c2c77ab2fef28488bde4d25efc8339\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\09216bf9d8319ff69c85bc16d2661b8f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6cfe36eb6e37bdb49c2f4b791ae84eaf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0480710a4b9362b0276d647aa07468a3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\666f17661869108630efe46b8386d325\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\bfc85b1ff757378aeef9df0aeb4042c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\1ceca4b896f4ee498ab4055387c657da\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\6e02e1cca9762d8c7ac499425286b999\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\TNCAP23F203\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\dac3ff48aba42890f67274212cab2a75\AndroidManifest.xml:26:9-47

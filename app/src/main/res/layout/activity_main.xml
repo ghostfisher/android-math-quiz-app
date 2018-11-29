@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context="com.example.quizapp.MainActivity"
+    android:background="#aaa" >
+
+    <!-- used to hold the views at the top of the screen -->
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_marginBottom="1dp"
+    android:layout_weight="1"
+    android:background="#ffffff"
+    android:textColor="#000000"
+    android:gravity="center"
+    android:text="please play carfully !" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#eeeeee"
+        android:orientation="horizontal"
+        android:weightSum="10" >
+
+        <TextView
+            android:id="@+id/questionNbrTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="1/5" 
+            android:layout_marginRight="1dp"
+            android:background="#ffffff"
+            android:textColor="#888888"/>
+
+        <TextView
+            android:background="#ffffff"
+            android:textStyle="bold"
+            android:id="@+id/curruntScoreTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="0 points"
+            android:textColor="#888888"/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/questionCon"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+            android:background="#eeeeee"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+	   		android:paddingTop="5dp"
+		    android:paddingRight="20dp"
+		    android:paddingBottom="5dp"
+		    />
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="submit" />
+
+</LinearLayout>
